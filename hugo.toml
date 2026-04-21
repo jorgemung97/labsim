@@ -1,0 +1,23 @@
+baseURL = "https://www.tec-morelia-labsim.com"
+languageCode = "es"
+title = "LabSim – TEC Morelia"
+theme = "PaperMod"
+
+[params]
+  description = "Laboratorio de Simulación – Tecnológico de Morelia"
+  ShowReadingTime = false
+  ShowShareButtons = false
+
+[menu]
+  [[menu.main]]
+    name = "Herramientas"
+    url = "/herramientas"
+    weight = 1
+  [[menu.main]]
+    name = "Equipo"
+    url = "/equipo"
+    weight = 2
+  [[menu.main]]
+    name = "Contacto"
+    url = "/contacto"
+    weight = 3
