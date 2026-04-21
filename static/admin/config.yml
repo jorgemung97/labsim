@@ -2,7 +2,7 @@ backend:
   name: github
   repo: jorgemung97/labsim
   branch: main
-  base_url: https://sveltia-cms-auth.pages.dev
+  base_url: https://cloudflare-pages-cms-oauth.pages.dev
 
 media_folder: static/images
 public_folder: /images
