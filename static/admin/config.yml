@@ -3,7 +3,7 @@ backend:
   repo: jorgemung97/labsim
   branch: main
   base_url:  https://cms-auth.jorgemunguiachavez.workers.dev
-
+  auth_endpoint: auth
 media_folder: static/images
 public_folder: /images
 
