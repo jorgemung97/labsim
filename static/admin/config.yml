@@ -4,6 +4,7 @@ backend:
   branch: main
   base_url: https://cms-auth.jorgemunguiachavez.workers.dev
   auth_endpoint: auth
+  gateway: false
 
 media_folder: images
 public_folder: /images
